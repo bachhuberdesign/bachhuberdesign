@@ -1,6 +1,6 @@
 ### Hi there, I'm Eric Bachhuber 👋
 
-Currently working on mobile applications at [HOMEE, Inc.](https://www.homee.com/) 🔧
+Currently working on mobile applications at [Affinity](https://www.affinityit.com/) 🔧
 
 You can also find me on [StackOverflow](https://stackoverflow.com/users/5564847/eric-bachhuber) 💬
 
